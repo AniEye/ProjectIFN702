@@ -39,7 +39,7 @@ public class NFC extends AppCompatActivity {
             Parcelable[] parcelables = intent.getParcelableArrayExtra(NfcAdapter.EXTRA_ID);
 
             if(parcelables != null && parcelables.length > 0){
-                
+
             }
 
         }
